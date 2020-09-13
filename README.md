@@ -1,5 +1,5 @@
 # Multi-View Human Action (MVHA) Dataset
-## Official repository of "Rotationally-Temporally Consistent Novel View Synthesis of Human Performance Video" (ECCV 2020 Spotlight) <br/>[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490375.pdf)]
+## Official repository for "Rotationally-Temporally Consistent Novel View Synthesis of Human Performance Video" (ECCV 2020 Spotlight) and Rotationally-Consistent Novel View Synthesis for Humans (ACM MM) <br/>[[Paper (ECCV)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490375.pdf)]
 <br/>
 
 [Youngjoong Kwon](https://youngjoongkwon.com/), [Dahun Kim](https://mcahny.github.io/).
@@ -32,3 +32,17 @@ unzip the zip file using the following command:
 unzip xxx.zip
 
 -every image is 4 channel which is: RGB+mask (foreground/background --> foreground is denoted as 1 and background as 0)
+
+## Citation
+
+If you use this dataset in your research, please cite following both papers.
+
+Rotationally-Temporally Consistent Novel View Synthesis of Human Performance Video (ECCV 2020)
+Rotationally-Consistent Novel View Synthesis for Humans (ACM MM 2020)
+
+
+
+## Contact
+
+If you have any questions regarding the repo, please contact Youngjoong Kwon (youngjoong@cs.unc.edu) or create an issue.
+
