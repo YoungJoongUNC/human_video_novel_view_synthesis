@@ -8,7 +8,7 @@
 
 <img src="./images/supple_dataset_overview (1).png" width="800"> <br/>
 
-We provide human action images (RGB + binary foreground/background mask) dataset that are rendered from multiple views (for now, it is 18 views along the azimuth with 20-degree interval). 
+We provide multi-view human action (MVHA) dataset consists of RGB and binary mask (foreground/background) which are rendered from multiple views. For now, we provide images that are generated from 18 views along the azimuth with 20-degree interval. We hope our dataset can contribute to the computer graphics and computer vision research including neural rendering, novel view synthesis and 3D reconstruction. 
 
 ## Download Instructions
 
