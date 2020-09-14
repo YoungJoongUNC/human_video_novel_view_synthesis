@@ -6,6 +6,9 @@
 
 ## Dataset
 
+
+<img src="./images/supple_dataset_overview (1).png" width="800"> <br/>
+
 a.Before downloading the dataset, first use the following command:
 
 ```
