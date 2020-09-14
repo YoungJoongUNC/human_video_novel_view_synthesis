@@ -4,10 +4,13 @@
 
 [Youngjoong Kwon](https://youngjoongkwon.com/), [Dahun Kim](https://mcahny.github.io/).
 
-## Dataset
-
+## Dataset Overview
 
 <img src="./images/supple_dataset_overview (1).png" width="800"> <br/>
+
+We provide human action images (RGB + binary foreground/background mask) dataset that are rendered from multiple views (for now, it is 18 views along the azimuth with 20-degree interval). 
+
+## Download Instructions
 
 a. Before downloading the dataset, first use the following command:
 
