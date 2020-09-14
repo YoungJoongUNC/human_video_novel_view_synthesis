@@ -54,7 +54,7 @@ Every image is 4 channel which is: RGB+mask (foreground/background -> foreground
 
 If you use this dataset in your research, please cite following papers.
 
-Rotationally-Temporally Consistent Novel View Synthesis of Human Performance Video (ECCV 2020)
+Rotationally-Temporally Consistent Novel View Synthesis of Human Performance Video (ECCV 2020) <br/>
 Rotationally-Consistent Novel View Synthesis for Humans (ACM MM 2020)
 
 
