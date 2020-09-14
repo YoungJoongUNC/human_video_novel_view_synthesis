@@ -1,5 +1,5 @@
 # Multi-View Human Action (MVHA) Dataset
-## Official repository of "Rotationally-Temporally Consistent Novel View Synthesis of Human Performance Video" (ECCV 2020 Spotlight) and "Rotationally-Consistent Novel View Synthesis for Humans" (ACM MM 2020) [[Paper (ECCV)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490375.pdf)]
+## Official repository of "Rotationally-Temporally Consistent Novel View Synthesis of Human Performance Video" (ECCV 2020 Spotlight) and "Rotationally-Consistent Novel View Synthesis for Humans" (ACM MM 2020) <br/> [[Paper (ECCV)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490375.pdf)]
 <br/>
 
 [Youngjoong Kwon](https://youngjoongkwon.com/), [Dahun Kim](https://mcahny.github.io/).
@@ -8,7 +8,7 @@
 
 <img src="./images/supple_dataset_overview (1).png" width="800"> <br/>
 
-We provide multi-view human action (MVHA) dataset consists of RGB and binary mask (foreground/background) which are rendered from multiple views. For now, we provide images that are generated from 18 views along the azimuth with 20-degree interval. We hope our dataset can contribute to the computer graphics and computer vision research including neural rendering, novel view synthesis and 3D reconstruction. 
+We provide multi-view human action (MVHA) dataset consists of RGB and binary mask (foreground/background) which are rendered from multiple views. For now, we provide images that are generated from 18 views along the azimuth with 20-degree interval.
 
 ## Download Instructions
 
