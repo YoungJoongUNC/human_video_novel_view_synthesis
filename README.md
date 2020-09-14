@@ -9,16 +9,14 @@
 
 <img src="./images/supple_dataset_overview (1).png" width="800"> <br/>
 
-a.Before downloading the dataset, first use the following command:
+a. Before downloading the dataset, first use the following command:
 
 ```
 pip install gdown
 conda install zip unzip
 ```
 
-b.
-
-If you want to download 256x256 dataset, use the following command:
+b. If you want to download 256x256 dataset, use the following command:
 
 ```
 gdown https://drive.google.com/uc?id=1FmxdgfQmjsGySNyWLZ_WaCN9pQB0Gc7o
@@ -33,9 +31,7 @@ unzip xxx.zip
 
 After the unzip process, you will see the rgb image folder and mask image folder(foreground/background --> foreground is denoted as 1 and background as 0)
 
-c.
-
-If you want to download 512x512 dataset, use the following command:
+c. If you want to download 512x512 dataset, use the following command:
 
 ```
 gdown https://drive.google.com/uc?id=1V4UbHXAAmdKM9v63DvP-_kmp1NlV7skw
