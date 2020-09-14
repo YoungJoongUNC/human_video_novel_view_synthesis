@@ -47,7 +47,7 @@ unzip the zip file using the following command:
 unzip xxx.zip
 ```
 
-Every image is 4 channel which is: RGB+mask (foreground/background --> foreground is denoted as 1 and background as 0)
+Every image is 4 channel which is: RGB+mask (foreground/background -> foreground is denoted as 1 and background as 0)
 
 
 ## Citation
