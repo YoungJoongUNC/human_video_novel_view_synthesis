@@ -2,9 +2,9 @@
 ## Official repository of "Rotationally-Temporally Consistent Novel View Synthesis of Human Performance Video" (ECCV 2020 Spotlight) and "Rotationally-Consistent Novel View Synthesis for Humans" (ACM MM 2020) <br/> [[Paper (ECCV)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490375.pdf)]
 <br/>
 
-[Youngjoong Kwon](https://youngjoongkwon.com/), [Dahun Kim](https://mcahny.github.io/).
-<br/>
-[![](http://img.youtube.com/vi/-LxS_i47UCs/0.jpg)](http://www.youtube.com/watch?v=-LxS_i47UCs "Rotationally-Temporally Consistent Novel View Synthesis of Human Performance Video (ECCV Spotlight)")
+[Youngjoong Kwon](https://youngjoongkwon.com/), [Stefano Petrangeli](https://research.adobe.com/person/stefano-petrangeli/), [Dahun Kim](https://mcahny.github.io/), [Haoliang Wang](https://research.adobe.com/person/haoliang-wang/), [Eunbyung Park](https://www.cs.unc.edu/~eunbyung/), [Viswanathan Swaminathan](https://research.adobe.com/person/vishy-swaminathan/), [Henry Fuchs](http://henryfuchs.web.unc.edu/).
+
+
 
 
 ## Dataset Overview
