@@ -3,6 +3,9 @@
 <br/>
 
 [Youngjoong Kwon](https://youngjoongkwon.com/), [Dahun Kim](https://mcahny.github.io/).
+<br/>
+[![](http://img.youtube.com/vi/-LxS_i47UCs/0.jpg)](http://www.youtube.com/watch?v=-LxS_i47UCs "Rotationally-Temporally Consistent Novel View Synthesis of Human Performance Video (ECCV Spotlight)")
+
 
 ## Dataset Overview
 
