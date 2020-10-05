@@ -1,5 +1,5 @@
 # Multi-View Human Action (MVHA) Dataset
-## Official repository of "Rotationally-Temporally Consistent Novel View Synthesis of Human Performance Video" (ECCV 2020 Spotlight) and "Rotationally-Consistent Novel View Synthesis for Humans" (ACM MM 2020) <br/> [[Paper (ECCV)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490375.pdf)]
+## Official repository of "Rotationally-Temporally Consistent Novel View Synthesis of Human Performance Video" (ECCV 2020 Spotlight) <br/> [[Paper (ECCV)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490375.pdf)]
 <br/>
 
 [Youngjoong Kwon](https://youngjoongkwon.com/), [Stefano Petrangeli](https://research.adobe.com/person/stefano-petrangeli/), [Dahun Kim](https://mcahny.github.io/), [Haoliang Wang](https://research.adobe.com/person/haoliang-wang/), [Eunbyung Park](https://www.cs.unc.edu/~eunbyung/), [Viswanathan Swaminathan](https://research.adobe.com/person/vishy-swaminathan/), [Henry Fuchs](http://henryfuchs.web.unc.edu/).
@@ -58,7 +58,6 @@ Every image is 4 channel which is: RGB+mask (foreground/background -> foreground
 If you use this dataset in your research, please cite following papers.
 
 Rotationally-Temporally Consistent Novel View Synthesis of Human Performance Video (ECCV 2020) <br/>
-Rotationally-Consistent Novel View Synthesis for Humans (ACM MM 2020)
 
 ## License
 The Multi-View Human Action (MVHA) dataset is released under the CC-BY-NC license (https://creativecommons.org/licenses/by-nc/4.0/)
