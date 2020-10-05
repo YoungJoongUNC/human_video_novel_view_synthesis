@@ -60,6 +60,9 @@ If you use this dataset in your research, please cite following papers.
 Rotationally-Temporally Consistent Novel View Synthesis of Human Performance Video (ECCV 2020) <br/>
 Rotationally-Consistent Novel View Synthesis for Humans (ACM MM 2020)
 
+## License
+The Multi-View Human Action (MVHA) dataset is released under the CC-BY-NC license (https://creativecommons.org/licenses/by-nc/4.0/)
+
 
 ## Contact
 
