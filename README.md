@@ -55,9 +55,30 @@ Every image is 4 channel which is: RGB+mask (foreground/background -> foreground
 
 ## Citation
 
-If you use this dataset in your research, please cite following papers.
+If you use this dataset in your research, please cite following two papers.
 
 Rotationally-Temporally Consistent Novel View Synthesis of Human Performance Video (ECCV 2020) <br/>
+```bibtex
+@inproceedings{kwon2020rotationally,
+  title={Rotationally-Temporally Consistent Novel View Synthesis of Human Performance Video},
+  author={Kwon, YoungJoong and Petrangeli, Stefano and Kim, Dahun and Wang, Haoliang and Park, Eunbyung and Swaminathan, Viswanathan and Fuchs, Henry},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2020}
+}
+```
+<br/>
+Rotationally-Consistent Novel View Synthesis for Humans (ACM MM 2020) <br/>
+
+```bibtex
+@inproceedings{kwon2020rotationally,
+  title={Rotationally-Consistent Novel View Synthesis for Humans},
+  author={Kwon, Youngjoong and Petrangeli, Stefano and Kim, Dahun and Wang, Haoliang and Fuchs, Henry and Swaminathan, Viswanathan},
+  booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
+  pages={2308--2316},
+  year={2020}
+}
+```
+
 
 ## License
 The Multi-View Human Action (MVHA) dataset is released under the CC-BY-NC license (https://creativecommons.org/licenses/by-nc/4.0/)
